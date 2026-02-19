@@ -33,7 +33,7 @@ Typical outputs include:
 A `requirements.txt` file is provided. Create and activate a conda environment, then install the requirements inside it:
 
 ```bash
-conda create -n visiumhd-subsample python=3.10 -y
+conda create -n visiumhd-subsample python=3.11 -y
 conda activate visiumhd-subsample
 
 # Install notebook runtime and dependencies
